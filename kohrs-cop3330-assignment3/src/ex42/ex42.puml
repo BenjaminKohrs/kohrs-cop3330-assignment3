@@ -1,0 +1,7 @@
+@startuml 
+class ex42.App{
++ void readStuff (Scanner scan, ArrayList<String> )
++ void printStuff (ArrayList<String> )
++ void main (String[] )
+}
+@enduml 
